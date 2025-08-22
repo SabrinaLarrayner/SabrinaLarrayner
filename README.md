@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Sabrina Larrayner  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-larrayner-366059238/)
+[![LinkedIn](www.linkedin.com/in/sabrina-vigilato-366059238)
 [![Gmail](https://img.shields.io/badge/-sabrinalarrayner1997@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sabrinalarrayner1997@gmail.com)](mailto:sabrinalarrayner1997@gmail.com)
 
 ---

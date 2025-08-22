@@ -1,10 +1,5 @@
 # 👋 Olá! Eu sou a Sabrina Larrayner  
 
-[![LinkedIn](www.linkedin.com/in/sabrina-vigilato-366059238)
-[![Gmail](https://img.shields.io/badge/-sabrinalarrayner1997@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sabrinalarrayner1997@gmail.com)](mailto:sabrinalarrayner1997@gmail.com)
-
----
-
 ## 🚀 Sobre mim
 Sou desenvolvedora **Front-End** apaixonada por criar interfaces funcionais, acessíveis e com design clean.  
 Adoro transformar ideias em código e estou sempre aprendendo novas tecnologias.  
